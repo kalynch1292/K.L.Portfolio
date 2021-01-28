@@ -154,7 +154,6 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
     text-align: left;
     font-size: 15px;
 }
-.featurette-image.img-fluid.mx-auto{
-    border-radius: 8px;
-    padding: 3px;
+.proImg.mx-auto.shadow1{
+    border-radius: 8px
 }
